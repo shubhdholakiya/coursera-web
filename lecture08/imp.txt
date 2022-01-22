@@ -1,0 +1,3 @@
+Instead of < we should use &lt;
+Instead of > we should use &gt;
+Instead of & we should use &amp;
