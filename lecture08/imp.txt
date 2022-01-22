@@ -1,3 +1,9 @@
-Instead of < we should use &lt;
-Instead of > we should use &gt;
-Instead of & we should use &amp;
+" &copy; " for Copyright Symbol
+
+Instead of < we should use " &lt; "
+Instead of > we should use " &gt; "
+Instead of & we should use " &amp; "
+
+&nbsp; between two words make the attach with each other so it won't wrap.
+
+watched till 4:50
