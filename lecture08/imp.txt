@@ -4,6 +4,7 @@ Instead of < we should use " &lt; "
 Instead of > we should use " &gt; "
 Instead of & we should use " &amp; "
 
-&nbsp; between two words make the attach with each other so it won't wrap.
+&nbsp; between two words make the attach with each other so it won't wrap as in they will always be in same line.
+&nbsp; must not be used for putting space between 2 words, for space between 2 words we can use span tag.
 
-watched till 4:50
+For " " we can use &quot; tag at starting and end.
