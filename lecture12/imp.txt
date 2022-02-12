@@ -1,0 +1,27 @@
+3 Selectors:
+    Element Selector : 
+        p{
+            color: blue;
+            font-size: 20px;
+            width: 200px;
+            text-align: center;
+        }
+    Class Selector:
+        It starts with '.'
+        .classsname{
+            color: blue;
+        }
+
+    id Selector:
+        it starts with '#'
+        #name{
+            color: blue;
+        }
+
+Grouping Selector:
+    div, .blue{
+        color: blue;
+    }
+    p, h1{
+        color: blue;
+    }
