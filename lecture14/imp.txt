@@ -1,0 +1,6 @@
+Combining Selectors:
+    p.big{
+        color: blue;
+    }
+    So here every paragraph tag with big named class would get blue color.
+    but other elements with class big won't be affected with this css.
